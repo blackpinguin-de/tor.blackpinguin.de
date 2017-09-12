@@ -1,0 +1,12 @@
+RewriteEngine on
+
+RewriteRule ^(20\d\d)$ index.php?year=$1
+RewriteRule ^(20\d\d)/$ index.php?year=$1
+#RewriteRule ^20\d\d/(.*)$ $1
+
+RewriteRule ^all$ index.php?year=all
+RewriteRule ^all/$ index.php?year=all
+#RewriteRule ^all/(.*)$ $1
+
+RewriteRule ^$ index.php?year=current
+RewriteRule ^/$ index.php?year=current
