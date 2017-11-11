@@ -73,14 +73,14 @@ google.setOnLoadCallback(init);
 					<br/>Displayed: <span id="smooth-now">1</span>
 				</div>
 			</div>
-			<br/>Nickname <a href="https://atlas.torproject.org/#details/BF09062A3C4E72873268CC68598132DF3431F43F" target="_blank">blackpinguinDE</a>
+			<br/>Nickname <a href="https://atlas.torproject.org/#details/BF09062A3C4E72873268CC68598132DF3431F43F" target="_blank" rel="noopener">blackpinguinDE</a>
 			<br/>Address tor.blackpinguin.de
 			<br/>DirPort 60001
 			<br/>ORPort 60002
 			<br/>RelayBandwidthRate 1024 KB (8 Mbps)
 			<br/>RelayBandwidthBurst 1280 KB (10 Mbps)
 			<br/>ExitPolicy reject *:* (this is not an exit node)
-			<hr/>The data for these statistics is generated with a shell script from the heartbeats in the local <a href="https://www.torproject.org/" target="_blank">Tor</a> logfile. It's visualized using the <a href="https://developers.google.com/chart/" target="_blank">Google Chart Tools</a>.
+			<hr/>The data for these statistics is generated with a shell script from the heartbeats in the local <a href="https://www.torproject.org/" target="_blank" rel="noopener">Tor</a> logfile. It's visualized using the <a href="https://developers.google.com/chart/" target="_blank" rel="noopener">Google Chart Tools</a>.
 		</div>
 
 		<!-- Traffic -->
@@ -118,9 +118,9 @@ google.setOnLoadCallback(init);
 	<!-- author -->
 	<!-- author and creative commons licence information -->
 	<div class="footer">
-		<a id="w3c" title="Valid HTML 4.01 Transitional" href="http://validator.w3.org/check?uri=referer" target="_blank"></a>
-		This page was created by <a class="footer" href="https://rcl.blackpinguin.de/" target="_blank">Robin&nbsp;Christopher&nbsp;Ladiges</a>
-		<a id="cc" title="cc by-sa" href="https://creativecommons.org/licenses/by-sa/3.0/de/" target="_blank"></a>
+		<a id="w3c" title="Valid HTML 4.01 Transitional" href="http://validator.w3.org/check?uri=referer" target="_blank" rel="noopener"></a>
+		This page was created by <a class="footer" href="https://rcl.blackpinguin.de/" target="_blank" rel="noopener">Robin&nbsp;Christopher&nbsp;Ladiges</a>
+		<a id="cc" title="cc by-sa" href="https://creativecommons.org/licenses/by-sa/3.0/de/" target="_blank" rel="noopener"></a>
 		<!-- This page (not the page and content it's linking to) is under creative commons by-sa 3.0 de license, you can read it here: https://creativecommons.org/licenses/by-sa/3.0/de/legalcode -->
 	</div>
 
