@@ -1,0 +1,10 @@
+https://tor.blackpinguin.de/2021/	index
+https://tor.blackpinguin.de/all/	default
+https://tor.blackpinguin.de/2013/	default_001
+https://tor.blackpinguin.de/2015/	default_002
+https://tor.blackpinguin.de/2018/	default_003
+https://tor.blackpinguin.de/2019/	default_004
+https://tor.blackpinguin.de/2020/	default_005
+https://tor.blackpinguin.de/2014/	default_006
+https://tor.blackpinguin.de/2016/	default_007
+https://tor.blackpinguin.de/2017/	default_008

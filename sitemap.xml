@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../../sitemap.xsl" type="text/xsl" media="all"?>
+<site>
+<page file="index.html" text="tor.blackpinguin.de" title="tor.blackpinguin.de Statistics">
+<page file="default.html" text="all" title="tor.blackpinguin.de Statistics">
+<page file="default_006.html" text="2014" title="tor.blackpinguin.de Statistics"/>
+</page>
+<page file="default_001.html" text="|&lt;" title="tor.blackpinguin.de Statistics">
+<page file="default_007.html" text="2016" title="tor.blackpinguin.de Statistics"/>
+</page>
+<page file="default_002.html" text="&lt;&lt;" title="tor.blackpinguin.de Statistics">
+<page file="default_008.html" text="2017" title="tor.blackpinguin.de Statistics"/>
+</page>
+<page file="default_003.html" text="2018" title="tor.blackpinguin.de Statistics"/>
+<page file="default_004.html" text="2019" title="tor.blackpinguin.de Statistics"/>
+<page file="default_005.html" text="2020" title="tor.blackpinguin.de Statistics"/>
+</page>
+</site>
