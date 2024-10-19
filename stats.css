@@ -1,0 +1,47 @@
+*{ font-family:Helvetica, Arial; font-size:10pt;}
+body{ background-color:#e0e0e0; }
+a{ color:#005500; text-decoration:none; }
+table { width:100%; }
+th{ text-align:left; }
+code{ color:#cc0000; font-family:"Courier New"; }
+img{ max-width:100%; border:0px; }
+.img-box{ width:100%; text-align:center; }
+
+.round{ border-width:2px; border-style:outset; border-color:#000000; -moz-border-radius:10px; border-radius:10px; } 
+/*a.round{ display:block; text-align:center; font-weight:bold; font-size:20pt; color:#000000; 
+background-color:#77ff77; border-color:#77ff77; }*/
+.sub{ padding: 4px 8px 4px 8px; margin: 4px 0px 0px 0px; background-color:#ffff99; border-color:#ffff99; position: relative; }
+
+a.header{ background-color:#7777ff; border-color:#7777ff; }
+.header{ font-size:12pt; font-weight:bold; }
+
+a.clickon{ font-weight:bold; color:#ff0000; text-decoration:underline; }
+
+#main{ width:100%; min-width:550px; max-width:1200px; margin: 0 auto;}
+#round{ padding: 0px 4px 4px 4px; background-color:#aaaaff; border-color:#aaaaff; }
+#title{ text-align:center; font-size:20pt; color:#ffffff; background-color:#555555; border-color:#555555; }
+
+.imp{ font-weight:bold; background-color:#88f; border-color:#88f; color:#000000; }
+div.imp, a.imp { float:right; }
+
+.year { font-weight:bold; float: left; margin-right:2px; }
+div.year { background-color:#7f7; border-color:#7f7; color:#000000; }
+a.year { background-color:#ff0; border-color:#ff0; color:#000000; }
+
+.left{ float:left; width:50%; }
+.right{ float:right; width:50%; }
+.left-element{ margin-right:2px; }
+.right-element{ margin-left:2px; }
+.clear{ clear:both; }
+
+.footer{ font-size:10pt; }
+div.footer{ text-align:center; height:31px; }
+a.footer{ color:#000000; font-weight:bold; }
+
+#cc{ display:block; float:right; width:88px; height:31px; background-image:url('cc.png'); }
+#w3c{ display:block; float:left; width:88px; height:31px; background-image:url('w3c.png'); }
+
+#smooth-div { right: 0; position: absolute; text-align: center; }
+#smooth-div > div { display: inline-block; text-align: left;  }
+#smooth-div > div > span { display: inline-block; float: right; margin-left: 20px; }
+#smooth-div > div > span:after { content: ""; display: table; clear: both; }
